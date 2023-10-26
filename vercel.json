@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://api.yangyu.xyz/:match*"
+      "destination": "http://wyapi.sa00.cn/:match*"
     }
   ]
 }
